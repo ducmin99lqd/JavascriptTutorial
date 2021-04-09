@@ -7,4 +7,4 @@
  console.log(sum(20,14))
  console.log(sum2(100,20))
  console.log('bui minh duc')
- console.log('bui minh phuong')
+ console.log('bui minh hau');
